@@ -5,7 +5,7 @@ import time
 
 
 
-bot = telebot.TeleBot('5353951371:AAHUAYz4NdUQv-8tHGLRHrZRKgeD_N6TXGs')
+bot = telebot.TeleBot('YOUR TOKEN')
 
 @bot.message_handler()
 def get_by_IP(message):
