@@ -8,7 +8,7 @@ from aiogram import Bot, Dispatcher, executor, types
  executes a request for your location and shows longitude and latitude'''
 
 
-API_TOKEN = '5353951371:AAHUAYz4NdUQv-8tHGLRHrZRKgeD_N6TXGs'
+API_TOKEN = 'YOUR TOKEN'
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
